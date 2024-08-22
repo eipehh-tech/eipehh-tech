@@ -23,7 +23,7 @@ Desenvolvedor Front-End apaixonado por criar experiências digitais envolventes 
   Um site para uma cafeteria fictícia, onde o foco foi criar uma experiência visual acolhedora e moderna. Usei CSS e SASS para estilização avançada e JavaScript para adicionar funcionalidades dinâmicas.
 
 - **[Projeto-01-adan](https://github.com/Pedroh-dev01/Projeto-01-adan)**  
-  Um projeto que explora a integração de TypeScript com JavaScript em um ambiente de desenvolvimento moderno. O objetivo foi maximizar a eficiência e a segurança do código.
+  Um projeto que realizei durante minha trilha coders24, projeto focado para aplicar meu conhecimento. Usei HTML e CSS.
 <br>
 ## 🎯 O que estou fazendo agora?
 Atualmente, estou aprimorando minhas habilidades em JS e TS, com foco em começar a estudar React. 

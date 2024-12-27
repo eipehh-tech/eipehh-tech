@@ -31,7 +31,7 @@ Atualmente, estou aprimorando minhas habilidades em JS e TS, com foco em começa
 
 ## 📊 Status
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroh-dev01&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eipehh-tech&layout=compact&theme=radical)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pedroh-dev01&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eipehh-tech&show_icons=true&theme=radical)
 

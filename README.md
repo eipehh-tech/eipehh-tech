@@ -15,9 +15,6 @@ Desenvolvedor Front-End apaixonado por criar experiências digitais envolventes 
 
 ## 🌟 Projetos em Destaque
 
-- **[SerDigital](https://github.com/Pedroh-dev01/SerDigital)**  
-  Uma plataforma digital focada em facilitar a transformação digital para pequenas e médias empresas. Neste projeto, utilizei principalmente HTML, CSS, e JavaScript para construir uma interface intuitiva e responsiva.
-
 - **[Donna Coffee](https://pedroh-dev01.github.io/Donna_Coffee/)**  
   Um site para uma cafeteria fictícia, onde o foco foi criar uma experiência visual acolhedora e moderna. Usei CSS e SASS para estilização avançada e JavaScript para adicionar funcionalidades dinâmicas.
 

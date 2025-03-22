@@ -1,6 +1,6 @@
 # Olá, Meu nome é Pedro Henrique 👋
 
-Sou um desenvolvedor Front-End apaixonado por criar experiências digitais envolventes e funcionais. Sempre em busca de novas tecnologias e práticas que melhorem a qualidade do código e a experiência do usuário.
+Desenvolvedor Front-End apaixonado por criar experiências digitais envolventes e funcionais. Sempre em busca de novas tecnologias e práticas que melhorem a qualidade do código e a experiência do usuário.
 <br>
 
 ## 🛠 Language and tools

@@ -3,7 +3,6 @@
 Sou um desenvolvedor Front-End apaixonado por criar experiências digitais envolventes e funcionais. Sempre em busca de novas tecnologias e práticas que melhorem a qualidade do código e a experiência do usuário.
 <br>
 
----
 
 ## 🛠 Language and tools
 
@@ -18,9 +17,7 @@ Sou um desenvolvedor Front-End apaixonado por criar experiências digitais envol
 
 ## 📊 Status
 
-<div display= "flex>
-  <img src="https://github-readme-stats.vercel.app/api?username=eipehh-tech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eipehh-tech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=eipehh-tech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eipehh-tech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" align="right" />
 
 <br clear="both">
